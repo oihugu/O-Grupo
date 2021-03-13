@@ -1,1 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T19:19:04.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" version="14.4.8" etag="Yb860pHaDQ9m1JJ3Fxzz" type="github"><diagram id="oWfhdJcZOfdns3_D12HX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-13T19:30:33.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="-iYiUFgIXxyw4J4H6DtS" version="14.4.8" type="github">
+  <diagram id="oWfhdJcZOfdns3_D12HX" name="Page-1">
+    <mxGraphModel dx="981" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-1" value="Processo de Marketing" style="swimlane;whiteSpace=wrap;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="472.26" y="-122.44" width="288.18" height="972.45" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=9;fontColor=#999999;labelBorderColor=none;fillColor=#dae8fc;labelBackgroundColor=none;strokeColor=#999999;" edge="1" parent="zmab_Cu2TGHPPQ61Q2gR-1" source="zmab_Cu2TGHPPQ61Q2gR-3" target="zmab_Cu2TGHPPQ61Q2gR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-3" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;labelBorderColor=none;fillColor=#dae8fc;labelBackgroundColor=none;strokeColor=#999999;" vertex="1" parent="zmab_Cu2TGHPPQ61Q2gR-1">
+          <mxGeometry x="-280.5" y="396" width="37.5" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-4" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Inicio do evento de promoções&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;labelBorderColor=none;fontColor=#999999;labelBackgroundColor=none;" vertex="1" parent="zmab_Cu2TGHPPQ61Q2gR-1">
+          <mxGeometry x="-299.25" y="434.75" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;fontColor=#999999;labelBorderColor=none;fillColor=#dae8fc;labelBackgroundColor=none;strokeColor=#999999;" edge="1" parent="zmab_Cu2TGHPPQ61Q2gR-1" source="zmab_Cu2TGHPPQ61Q2gR-6" target="zmab_Cu2TGHPPQ61Q2gR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-6" value="Cadastrar promoções ou cupons" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;labelBorderColor=none;fillColor=#dae8fc;labelBackgroundColor=none;strokeColor=#999999;" vertex="1" parent="zmab_Cu2TGHPPQ61Q2gR-1">
+          <mxGeometry x="-141.75" y="384.75" width="97.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;fontColor=#999999;labelBorderColor=none;fillColor=#dae8fc;labelBackgroundColor=none;strokeColor=#999999;" edge="1" parent="zmab_Cu2TGHPPQ61Q2gR-1" source="zmab_Cu2TGHPPQ61Q2gR-8" target="zmab_Cu2TGHPPQ61Q2gR-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="163.25" y="414.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-8" value="Funcionário inicia a divulgação da promoção" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;labelBorderColor=none;fillColor=#dae8fc;labelBackgroundColor=none;strokeColor=#999999;" vertex="1" parent="zmab_Cu2TGHPPQ61Q2gR-1">
+          <mxGeometry x="15.75" y="384.75" width="97.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-36" value="" style="ellipse;html=1;shape=endState;fillColor=#dae8fc;fontSize=9;labelBorderColor=none;labelBackgroundColor=none;strokeColor=#999999;" vertex="1" parent="zmab_Cu2TGHPPQ61Q2gR-1">
+          <mxGeometry x="168.75" y="399.75" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-37" value="Fim do evento &lt;br&gt;de&amp;nbsp;&lt;span&gt;promoções&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=9;labelBorderColor=none;fontColor=#999999;labelBackgroundColor=none;" vertex="1" parent="zmab_Cu2TGHPPQ61Q2gR-1">
+          <mxGeometry x="148.75" y="433.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="zmab_Cu2TGHPPQ61Q2gR-1" source="zmab_Cu2TGHPPQ61Q2gR-57" target="zmab_Cu2TGHPPQ61Q2gR-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-57" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;labelBorderColor=none;fillColor=#dae8fc;labelBackgroundColor=none;strokeColor=#999999;" vertex="1" parent="zmab_Cu2TGHPPQ61Q2gR-1">
+          <mxGeometry x="-283" y="520.88" width="37.5" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-58" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Inicio do evento de engajamento&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;labelBorderColor=none;fontColor=#999999;labelBackgroundColor=none;" vertex="1" parent="zmab_Cu2TGHPPQ61Q2gR-1">
+          <mxGeometry x="-301.75" y="559.63" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#999999;" edge="1" parent="zmab_Cu2TGHPPQ61Q2gR-1" source="zmab_Cu2TGHPPQ61Q2gR-60" target="zmab_Cu2TGHPPQ61Q2gR-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-60" value="Buscar um anúncio." style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;labelBorderColor=none;fillColor=#dae8fc;labelBackgroundColor=none;strokeColor=#999999;" vertex="1" parent="zmab_Cu2TGHPPQ61Q2gR-1">
+          <mxGeometry x="-141.75" y="509.63" width="97.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="zmab_Cu2TGHPPQ61Q2gR-1" source="zmab_Cu2TGHPPQ61Q2gR-62" target="zmab_Cu2TGHPPQ61Q2gR-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-62" value="Verificar se o usuário é parte do clube πStore++" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;labelBorderColor=none;fillColor=#dae8fc;labelBackgroundColor=none;strokeColor=#999999;" vertex="1" parent="zmab_Cu2TGHPPQ61Q2gR-1">
+          <mxGeometry x="15.75" y="509.63" width="97.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#999999;fontSize=9;fontColor=#999999;" edge="1" parent="zmab_Cu2TGHPPQ61Q2gR-1" source="zmab_Cu2TGHPPQ61Q2gR-64" target="zmab_Cu2TGHPPQ61Q2gR-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-64" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;labelBorderColor=none;fillColor=#dae8fc;labelBackgroundColor=none;strokeColor=#999999;" vertex="1" parent="zmab_Cu2TGHPPQ61Q2gR-1">
+          <mxGeometry x="158.75" y="513.63" width="50" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-68" value="O anunciante é parte &lt;br&gt;do clube πStore++" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=9;fontColor=#999999;" vertex="1" parent="zmab_Cu2TGHPPQ61Q2gR-1">
+          <mxGeometry x="193.5" y="500.38" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;fontSize=9;fontColor=#999999;" edge="1" parent="zmab_Cu2TGHPPQ61Q2gR-1" source="zmab_Cu2TGHPPQ61Q2gR-69" target="zmab_Cu2TGHPPQ61Q2gR-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-69" value="Adiciona aos anúncios em destaque" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;labelBorderColor=none;fillColor=#dae8fc;labelBackgroundColor=none;strokeColor=#999999;" vertex="1" parent="zmab_Cu2TGHPPQ61Q2gR-1">
+          <mxGeometry x="313.5" y="509.63" width="97.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-71" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=9;fontColor=#999999;" vertex="1" parent="zmab_Cu2TGHPPQ61Q2gR-1">
+          <mxGeometry x="233.75" y="538.38" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-73" value="" style="ellipse;html=1;shape=endState;fillColor=#dae8fc;fontSize=9;labelBorderColor=none;labelBackgroundColor=none;strokeColor=#999999;" vertex="1" parent="zmab_Cu2TGHPPQ61Q2gR-1">
+          <mxGeometry x="453.5" y="524.63" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zmab_Cu2TGHPPQ61Q2gR-74" value="Fim do evento &lt;br&gt;de&amp;nbsp;&lt;span&gt;engajamento&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=9;labelBorderColor=none;fontColor=#999999;labelBackgroundColor=none;" vertex="1" parent="zmab_Cu2TGHPPQ61Q2gR-1">
+          <mxGeometry x="428.5" y="558.38" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
